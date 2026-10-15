@@ -1,0 +1,14 @@
+C:\projetoCSharp_Stephanie\Mercado\bin\Debug\net10.0\Mercado.exe
+C:\projetoCSharp_Stephanie\Mercado\bin\Debug\net10.0\Mercado.deps.json
+C:\projetoCSharp_Stephanie\Mercado\bin\Debug\net10.0\Mercado.runtimeconfig.json
+C:\projetoCSharp_Stephanie\Mercado\bin\Debug\net10.0\Mercado.dll
+C:\projetoCSharp_Stephanie\Mercado\bin\Debug\net10.0\Mercado.pdb
+C:\projetoCSharp_Stephanie\Mercado\obj\Debug\net10.0\Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetoCSharp_Stephanie\Mercado\obj\Debug\net10.0\Mercado.AssemblyInfoInputs.cache
+C:\projetoCSharp_Stephanie\Mercado\obj\Debug\net10.0\Mercado.AssemblyInfo.cs
+C:\projetoCSharp_Stephanie\Mercado\obj\Debug\net10.0\Mercado.csproj.CoreCompileInputs.cache
+C:\projetoCSharp_Stephanie\Mercado\obj\Debug\net10.0\Mercado.dll
+C:\projetoCSharp_Stephanie\Mercado\obj\Debug\net10.0\refint\Mercado.dll
+C:\projetoCSharp_Stephanie\Mercado\obj\Debug\net10.0\Mercado.pdb
+C:\projetoCSharp_Stephanie\Mercado\obj\Debug\net10.0\Mercado.genruntimeconfig.cache
+C:\projetoCSharp_Stephanie\Mercado\obj\Debug\net10.0\ref\Mercado.dll
